@@ -4,3 +4,5 @@ This is the official repository for Myanmar Open Wordnet (MOW). At present, it's
 (At present there is only one release. In future, the latest release will be in the top directory, while older releases will be kept in the "Previous Releases" folder)
 
 Website: wordnet.burmese.sg
+
+As an open wordnet, it is under the Creative Commons Attribution 4.0 International License (CC BY 4.0)
